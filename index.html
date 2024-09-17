@@ -13,50 +13,114 @@
         <div class="calculator-container">
             <h1>Калькулятор сварки</h1>
             <form id="bmiForm">
-                <label for="Металл">Выберите металл:</label>
-                <br>
+
+        	<section class="tabs">
+        		<input id="Point" type="radio" name="tab" checked="checked" />
+        		<label for="Point" id="LPoint">Точечная сварка</label>
+        		<input id="Show" type="radio" name="tab" />
+        		<label for="Show" id="LShow">Шовная сварка</label>
+        		<div style="clear:both"></div>
+
+        	 <div class="tabs_cont">
+                <div id="CPoint">
+				Выберите металл:
+				<br>
+
+				<select id="Металл_точка">
+		  		<option value="1">Алюминий Д16АТ</option>
+		  		<option value="2">Алюминий АМгАМ</option>
+		  		<option value="3">Магний</option>
+		  		<option value="4">Латунь Л62</option>
+		  		<option value="5">Низкоуглеродистая сталь</option>
+		  		<option value="6">Низкоулегированная сталь</option>
+		  		<option value="7">Нержавеющая сталь</option>
+				</select>
+				<br>
+
+
+			       Выберите толщину, мм:
+				<br>
+
+				<select id="Толщина_точка">
+		  		<option value="1">0.3</option>
+		  		<option value="2">0.5</option>
+		  		<option value="3">0.8</option>
+		  		<option value="4">1</option>
+		  		<option value="5">1.2</option>
+		  		<option value="6">1.5</option>
+		  		<option value="7">2</option>
+				</select>
+				<br><br>
+
+				<button type="button" onclick="calculateBMIPoint()">
+				    Рассчитать
+				    
+				    
+				</button>
+
+				<pre id="Iweld_Point"></pre>
+				<pre id="Tweld_Point"></pre>
+				<pre id="Tpauz_Point"></pre>
+				<pre id="Fweld_Point"></pre>
+				<pre id="Melect_Point"></pre>
+				<pre id="Delect_Point"></pre>
+				<div id="Picture_Point"></div>
+				
+
+                </div>
                 
-
-		<select id="Металл">
-  		<option value="1">Алюминий Д16АТ</option>
-  		<option value="2">Алюминий АМгАМ</option>
-  		<option value="3">Магний</option>
-  		<option value="4">Латунь Л62</option>
-  		<option value="5">Низкоуглеродистая сталь</option>
-  		<option value="6">Низкоулегированная сталь</option>
-  		<option value="7">Нержавеющая сталь</option>
-		</select>
-		<br>
-
-
-                <label for="Толщина">Выберите толщину, мм:</label>
-		<br>
                 
-                <select id="Толщина">
-  		<option value="1">0.3</option>
-  		<option value="2">0.5</option>
-  		<option value="3">0.8</option>
-  		<option value="4">1</option>
-  		<option value="5">1.2</option>
-  		<option value="6">1.5</option>
-  		<option value="7">2</option>
-		</select>
-		<br><br>
+                <div id="CShow">
+                				Выберите металл:
+				<br>
 
-                <button type="button" onclick="calculateBMI()">
-                    Рассчитать
-                    
-                    
-                </button>
+				<select id="Металл_шов">
+		  		<option value="1">Алюминий Д16АТ</option>
+		  		<option value="2">Алюминий АМгАМ</option>
+		  		<option value="3">Магний</option>
+		  		<option value="4">Латунь Л62</option>
+		  		<option value="5">Низкоуглеродистая сталь</option>
+		  		<option value="6">Низкоулегированная сталь</option>
+		  		<option value="7">Нержавеющая сталь</option>
+				</select>
+				<br>
 
-                <pre id="Iweld"></pre>
-                <pre id="Tweld"></pre>
-                <pre id="Tpauz"></pre>
-                <pre id="Fweld"></pre>
-                <pre id="Uweld"></pre>
-                <div id="Picture"></div>
+
+			       Выберите толщину, мм:
+				<br>
+
+				<select id="Толщина_шов">
+		  		<option value="1">0.3</option>
+		  		<option value="2">0.5</option>
+		  		<option value="3">0.8</option>
+		  		<option value="4">1</option>
+		  		<option value="5">1.2</option>
+		  		<option value="6">1.5</option>
+		  		<option value="7">2</option>
+				</select>
+				<br><br>
+
+				<button type="button" onclick="calculateBMIShow()">
+				    Рассчитать
+				    
+				    
+				</button>
+
+				<pre id="Iweld_Show"></pre>
+				<pre id="Tweld_Show"></pre>
+				<pre id="Tpauz_Show"></pre>
+				<pre id="Fweld_Show"></pre>
+				<pre id="Rroll_Show"></pre>
+				<pre id="Droll_Show"></pre>
+				<pre id="Vweld_Show"></pre>
+				<div id="Picture_Show"></div>
+				<p id = "URL"></p>
+				
+				</div>
+        	</div>
+		</section>
+        	     <br>
                 
-
             </form>
         </div>
 

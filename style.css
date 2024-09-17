@@ -6,12 +6,60 @@ body {
     height: 100vh;
     margin: 0;
 }
-
 .calculator-container {
     text-align: left;
 }
 
+.tabs {
+        position: relative;
+        margin: 0 auto;
+        width: 800px;
+}
+.tabs label {
+        color: #555;
+        cursor: pointer;
+        display: block;
+        float: left;
+        width: 150px;
+        height: 45px;
+        line-height: 45px;
+        position: relative;
+        top: 2px;
+        text-align: center;
+}
 
+.tabs input {
+        position: absolute;
+        left: -9999px;
+}
+
+#Point:checked  ~ #LPoint,
+#Show:checked  ~ #LShow {
+        background: #fff;
+        border-color: #fff;
+        top: 0;
+        z-index: 3;
+}
+
+.tabs_cont {
+        background: #fff;
+        position: relative;
+        height: 230px;
+}
+.tabs_cont > div {
+        position: absolute;
+        left: -9999px;
+        top: 0;
+        opacity: 0;
+        -moz-transition: opacity .5s ease-in-out;
+        -webkit-transition: opacity .5s ease-in-out;
+        transition: opacity .5s ease-in-out;
+}
+#Point:checked ~ .tabs_cont #CPoint,
+#Show:checked ~ .tabs_cont #CShow{
+        left: 0;
+        opacity: 1;
+}
 
 form {
     max-width: 500px;
