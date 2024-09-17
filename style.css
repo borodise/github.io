@@ -28,10 +28,15 @@ body {
         text-align: center;
 }
 
+
 .tabs input {
         position: absolute;
         left: -9999px;
 }
+.tabs input[type=radio]:checked + label {
+	font-weight: 700;
+}
+ 
 
 #Point:checked  ~ #LPoint,
 #Show:checked  ~ #LShow {
@@ -67,12 +72,14 @@ form {
 }
 
 label,
-input,
 button {
     display: ruby;
     margin-bottom: 10px;
 }
 
+input[type="radio"]{
+  accent-color:green;
+}
 button {
     background-color: #4caf50;
     color: white;
