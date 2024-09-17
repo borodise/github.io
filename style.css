@@ -3,8 +3,8 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 100vh;
-    margin: 0;
+    height: 70vh;
+    margin: 10;
 }
 .calculator-container {
     text-align: left;
