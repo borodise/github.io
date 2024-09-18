@@ -1,0 +1,112 @@
+[
+	{
+	"metall":"",
+	"thick":"",
+	"Iweld_Point":"",
+	"Tweld_Point":"",
+	"Tpauz_Point":"",
+	"Fweld_Point":"",
+	"Melect_Point":"",
+	"Delect_Point":"",
+	"Picture_Point":""
+	},
+	{
+	"metall":"Низкоуглеродистая сталь",
+	"thick":"0.5",
+	"Iweld_Point":"6-6.5",
+	"Tweld_Point":"0.08-0.1",
+	"Tpauz_Point":"",
+	"Fweld_Point":"1.2-1.8",
+	"Melect_Point":"",
+	"Delect_Point":"",
+	"Picture_Point":""
+	},
+	{
+	"metall":"Низкоуглеродистая сталь",
+	"thick":"0.8",
+	"Iweld_Point":"6.5-7",
+	"Tweld_Point":"0.1-0.14",
+	"Tpauz_Point":"",
+	"Fweld_Point":"2-2.5",
+	"Melect_Point":"",
+	"Delect_Point":"",
+	"Picture_Point":""
+	},
+	{
+	"metall":"Низкоуглеродистая сталь",
+	"thick":"1",
+	"Iweld_Point":"7-8",
+	"Tweld_Point":"0.12-0.16",
+	"Tpauz_Point":"",
+	"Fweld_Point":"2.5-3",
+	"Melect_Point":"",
+	"Delect_Point":"",
+	"Picture_Point":""
+	},
+	{
+	"metall":"Низкоуглеродистая сталь",
+	"thick":"1.2",
+	"Iweld_Point":"8-9",
+	"Tweld_Point":"0.14-0.18",
+	"Tpauz_Point":"",
+	"Fweld_Point":"3-4",
+	"Melect_Point":"",
+	"Delect_Point":"",
+	"Picture_Point":""
+	},
+	{
+	"metall":"Низкоуглеродистая сталь",
+	"thick":"1.5",
+	"Iweld_Point":"9-10",
+	"Tweld_Point":"0.16-0.22",
+	"Tpauz_Point":"",
+	"Fweld_Point":"4-5",
+	"Melect_Point":"",
+	"Delect_Point":"",
+	"Picture_Point":""
+	},
+	{
+	"metall":"Низкоуглеродистая сталь",
+	"thick":"2",
+	"Iweld_Point":"10-11.5",
+	"Tweld_Point":"",
+	"Tpauz_Point":"",
+	"Fweld_Point":"6-7",
+	"Melect_Point":"",
+	"Delect_Point":"",
+	"Picture_Point":""
+	},
+	{
+	"metall":"Низкоуглеродистая сталь",
+	"thick":"3",
+	"Iweld_Point":"11.5-14",
+	"Tweld_Point":"",
+	"Tpauz_Point":"",
+	"Fweld_Point":"9-10",
+	"Melect_Point":"",
+	"Delect_Point":"",
+	"Picture_Point":""
+	},
+	{
+	"metall":"Низкоуглеродистая сталь",
+	"thick":"3.5",
+	"Iweld_Point":"15-16.5",
+	"Tweld_Point":"",
+	"Tpauz_Point":"",
+	"Fweld_Point":"11-12",
+	"Melect_Point":"",
+	"Delect_Point":"",
+	"Picture_Point":""
+	},
+	{
+	"metall":"Низкоуглеродистая сталь",
+	"thick":"4",
+	"Iweld_Point":"17-19",
+	"Tweld_Point":"",
+	"Tpauz_Point":"",
+	"Fweld_Point":"13-15",
+	"Melect_Point":"",
+	"Delect_Point":"",
+	"Picture_Point":""
+	}
+]
