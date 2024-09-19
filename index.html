@@ -35,13 +35,13 @@
 				<br>
 
 				<select id="Металл_точка">
-		  		<option value="1">Алюминий Д16АТ</option>
-		  		<option value="2">Алюминий АМгАМ</option>
-		  		<option value="3">Жаропрочная сталь</option>
-		  		<option value="4">Низкоуглеродистая сталь</option>
-		  		<option value="5">Низколегированная сталь</option>
-		  		<option value="6">Нержавеющая сталь</option>
-		  		<option value="7">Титан</option>
+		  		<option value="D16AT">Алюминий Д16АТ</option>
+		  		<option value="AMGAM">Алюминий АМгАМ</option>
+		  		<option value="HEAT">Жаропрочная сталь</option>
+		  		<option value="LOWC">Низкоуглеродистая сталь</option>
+		  		<option value="LOWLEG">Низколегированная сталь</option>
+		  		<option value="NOCOR">Нержавеющая сталь</option>
+		  		<option value="TITAN">Титан</option>
 				</select>
 				<br>
 
@@ -50,13 +50,70 @@
 				<br>
 
 				<select id="Толщина_точка">
-		  		<option value="1">0.3</option>
-		  		<option value="2">0.5</option>
-		  		<option value="3">0.8</option>
-		  		<option value="4">1</option>
-		  		<option value="5">1.2</option>
-		  		<option value="6">1.5</option>
-		  		<option value="7">2</option>
+		  		<option class="D16AT"value="D16AT0.5">0.5</option>
+		  		<option class="D16AT"value="D16AT0.8">0.8</option>
+		  		<option class="D16AT"value="D16AT1">1</option>
+		  		<option class="D16AT"value="D16AT1.5">1.5</option>
+		  		<option class="D16AT"value="D16AT2">2</option>
+		  		
+		  		<option class="TITAN"value="TITAN0.3">0.3</option>
+		  		<option class="TITAN"value="TITAN0.5">0.5</option>
+		  		<option class="TITAN"value="TITAN0.8">0.8</option>
+		  		<option class="TITAN"value="TITAN1">1</option>
+		  		<option class="TITAN"value="TITAN1.2">1.2</option>
+		  		<option class="TITAN"value="TITAN1.5">1.5</option>
+		  		<option class="TITAN"value="TITAN2">2</option>
+		  		<option class="TITAN"value="TITAN2.5">2.5</option>
+		  		<option class="TITAN"value="TITAN3">3</option>
+		  		
+		  		<option class="AMGAM"value="AMGAM0.5">0.5</option>
+		  		<option class="AMGAM"value="AMGAM0.8">0.8</option>
+		  		<option class="AMGAM"value="AMGAM1">1</option>
+		  		<option class="AMGAM"value="AMGAM1.5">1.5</option>
+		  		<option class="AMGAM"value="AMGAM2">2</option>
+		  		
+		  		<option class="HEAT"value="HEAT0.3">0.3</option>
+		  		<option class="HEAT"value="HEAT0.5">0.5</option>
+		  		<option class="HEAT"value="HEAT0.8">0.8</option>
+		  		<option class="HEAT"value="HEAT1">1</option>
+		  		<option class="HEAT"value="HEAT1.2">1.2</option>
+		  		<option class="HEAT"value="HEAT1.5">1.5</option>
+		  		<option class="HEAT"value="HEAT2">2</option>
+		  		<option class="HEAT"value="HEAT2.5">2.5</option>
+		  		<option class="HEAT"value="HEAT3">3</option>
+		  		
+		  		
+		  		<option class="LOWC"value="LOWC0.5">0.5</option>
+		  		<option class="LOWC"value="LOWC0.8">0.8</option>
+		  		<option class="LOWC"value="LOWC1">1</option>
+		  		<option class="LOWC"value="LOWC1.2">1.2</option>
+		  		<option class="LOWC"value="LOWC1.5">1.5</option>
+		  		<option class="LOWC"value="LOWC2">2</option>
+		  		<option class="LOWC"value="LOWC3">3</option>
+		  		<option class="LOWC"value="LOWC3.5">3.5</option>
+		  		<option class="LOWC"value="LOWC4">4</option>
+		  		
+		  		<option class="LOWLEG"value="LOWLEG0.5">0.5</option>
+		  		<option class="LOWLEG"value="LOWLEG0.8">0.8</option>
+		  		<option class="LOWLEG"value="LOWLEG1">1</option>
+		  		<option class="LOWLEG"value="LOWLEG1.2">1.2</option>
+		  		<option class="LOWLEG"value="LOWLEG1.5">1.5</option>
+		  		<option class="LOWLEG"value="LOWLEG2">2</option>
+		  		<option class="LOWLEG"value="LOWLEG2.5">2.5</option>
+		  		<option class="LOWLEG"value="LOWLEG3">3</option>
+		  		
+		  		<option class="NOCOR"value="NOCOR0.3">0.3</option>
+		  		<option class="NOCOR"value="NOCOR0.5">0.5</option>
+		  		<option class="NOCOR"value="NOCOR0.8">0.8</option>
+		  		<option class="NOCOR"value="NOCOR1">1</option>
+		  		<option class="NOCOR"value="NOCOR1.2">1.2</option>
+		  		<option class="NOCOR"value="NOCOR1.5">1.5</option>
+		  		<option class="NOCOR"value="NOCOR2">2</option>
+		  		<option class="NOCOR"value="NOCOR2.5">2.5</option>
+		  		<option class="NOCOR"value="NOCOR3">3</option>
+
+		  		
+
 				</select>
 				<br><br>
 
@@ -68,11 +125,14 @@
 
 				<pre id="Iweld_Point"></pre>
 				<pre id="Tweld_Point"></pre>
-				<pre id="Tpauz_Point"></pre>
 				<pre id="Fweld_Point"></pre>
-				<pre id="Melect_Point"></pre>
+				<pre id="Relect_Point"></pre>
 				<pre id="Delect_Point"></pre>
+				<pre id="Tpauz_Point"></pre>
+				<pre id="Idop_Point"></pre>
+				<pre id="Tdop_Point"></pre>
 				<div id="Picture_Point"></div>
+				<p id = "URL_Point"></p>
 				
 
                 </div>
@@ -83,13 +143,13 @@
 				<br>
 
 				<select id="Металл_шов">
-		  		<option value="1">Алюминий Д16АТ</option>
-		  		<option value="2">Алюминий АМгАМ</option>
-		  		<option value="3">Жаропрочная сталь</option>
-		  		<option value="4">Низкоуглеродистая сталь</option>
-		  		<option value="5">Низколегированная сталь</option>
-		  		<option value="6">Нержавеющая сталь</option>
-		  		<option value="7">Титан</option>
+				<option value="D16AT">Алюминий Д16АТ</option>
+		  		<option value="AMGAM">Алюминий АМгАМ</option>
+		  		<option value="HEAT">Жаропрочная сталь</option>
+		  		<option value="LOWC">Низкоуглеродистая сталь</option>
+		  		<option value="LOWLEG">Низколегированная сталь</option>
+		  		<option value="NOCOR">Нержавеющая сталь</option>
+		  		<option value="TITAN">Титан</option>
 				</select>
 				<br>
 
@@ -98,13 +158,63 @@
 				<br>
 
 				<select id="Толщина_шов">
-		  		<option value="1">0.3</option>
-		  		<option value="2">0.5</option>
-		  		<option value="3">0.8</option>
-		  		<option value="4">1</option>
-		  		<option value="5">1.2</option>
-		  		<option value="6">1.5</option>
-		  		<option value="7">2</option>
+		  		
+		  		<option class="TITAN"value="TITAN0.3">0.3</option>
+		  		<option class="TITAN"value="TITAN0.5">0.5</option>
+		  		<option class="TITAN"value="TITAN0.8">0.8</option>
+		  		<option class="TITAN"value="TITAN1">1</option>
+		  		<option class="TITAN"value="TITAN1.2">1.2</option>
+		  		<option class="TITAN"value="TITAN1.5">1.5</option>
+		  		<option class="TITAN"value="TITAN2">2</option>
+		  		<option class="TITAN"value="TITAN2.5">2.5</option>
+		  		<option class="TITAN"value="TITAN3">3</option>
+		  		
+		  		<option class="AMGAM"value="AMGAM0.5">0.5</option>
+		  		<option class="AMGAM"value="AMGAM0.8">0.8</option>
+		  		<option class="AMGAM"value="AMGAM1">1</option>
+		  		<option class="AMGAM"value="AMGAM1">1.2</option>
+		  		<option class="AMGAM"value="AMGAM1.5">1.5</option>
+		  		
+		  		<option class="HEAT"value="HEAT0.3">0.3</option>
+		  		<option class="HEAT"value="HEAT0.5">0.5</option>
+		  		<option class="HEAT"value="HEAT0.8">0.8</option>
+		  		<option class="HEAT"value="HEAT1">1</option>
+		  		<option class="HEAT"value="HEAT1.2">1.2</option>
+		  		<option class="HEAT"value="HEAT1.5">1.5</option>
+		  		<option class="HEAT"value="HEAT2">2</option>
+		  		<option class="HEAT"value="HEAT2.5">2.5</option>
+		  		<option class="HEAT"value="HEAT3">3</option>
+		  		
+		  		
+		  		<option class="LOWC"value="LOWC0.5">0.5</option>
+		  		<option class="LOWC"value="LOWC0.8">0.8</option>
+		  		<option class="LOWC"value="LOWC1">1</option>
+		  		<option class="LOWC"value="LOWC1.2">1.2</option>
+		  		<option class="LOWC"value="LOWC1.5">1.5</option>
+		  		<option class="LOWC"value="LOWC2">2</option>
+		  		<option class="LOWC"value="LOWC3">3</option>
+		  		
+		  		<option class="LOWLEG"value="LOWLEG0.5">0.5</option>
+		  		<option class="LOWLEG"value="LOWLEG0.8">0.8</option>
+		  		<option class="LOWLEG"value="LOWLEG1">1</option>
+		  		<option class="LOWLEG"value="LOWLEG1.2">1.2</option>
+		  		<option class="LOWLEG"value="LOWLEG1.5">1.5</option>
+		  		<option class="LOWLEG"value="LOWLEG2">2</option>
+		  		<option class="LOWLEG"value="LOWLEG2.5">2.5</option>
+		  		<option class="LOWLEG"value="LOWLEG3">3</option>
+		  		
+		  		<option class="NOCOR"value="NOCOR0.3">0.3</option>
+		  		<option class="NOCOR"value="NOCOR0.5">0.5</option>
+		  		<option class="NOCOR"value="NOCOR0.8">0.8</option>
+		  		<option class="NOCOR"value="NOCOR1">1</option>
+		  		<option class="NOCOR"value="NOCOR1.2">1.2</option>
+		  		<option class="NOCOR"value="NOCOR1.5">1.5</option>
+		  		<option class="NOCOR"value="NOCOR2">2</option>
+		  		<option class="NOCOR"value="NOCOR2.5">2.5</option>
+		  		<option class="NOCOR"value="NOCOR3">3</option>
+
+		  		
+
 				</select>
 				<br><br>
 
@@ -122,7 +232,7 @@
 				<pre id="Droll_Show"></pre>
 				<pre id="Vweld_Show"></pre>
 				<div id="Picture_Show"></div>
-				<p id = "URL"></p>
+				<p id = "URL_Show"></p>
 				
 				</div>
         	</div>
@@ -133,5 +243,8 @@
         </div>
 
         <script src="script.js"></script>
+        <script src="PointData.js"></script>
+        <script src="ShowData.js"></script>
+        
     </body>
 </html>
