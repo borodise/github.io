@@ -1,7 +1,10 @@
 function calculateBMIPoint() { 
    let ThickInput_Point = document.getElementById('Толщина_точка');
    let Thick_Point = ThickInput_Point.options[ThickInput_Point.selectedIndex].value;   
+   let MetallInput_Point = document.getElementById('Металл_точка');
+   let Metall_Point = MetallInput_Point.options[MetallInput_Point.selectedIndex].value;  
 
+   let TypeMetall_Point = document.getElementById('TypeMetall_Point');	
    let Iweld_Point = document.getElementById('Iweld_Point');
    let Tweld_Point = document.getElementById('Tweld_Point');
    let Fweld_Point = document.getElementById('Fweld_Point');
@@ -13,9 +16,32 @@ function calculateBMIPoint() {
    let Picture_Point = document.getElementById('Picture_Point');
    let URL_Point = document.getElementById('URL_Point');
     
-  
+    Tpauz_Point.innerHTML = '';
+    Idop_Point.innerHTML = '';
+    Tdop_Point.innerHTML = '';
+    TypeMetall_Point.innerHTML = '';
+    
+   if (Metall_Point == "HEAT")
+   {
+   TypeMetall_Point.innerHTML = 'ЭИ602,ЭИ652,ВЖ85,ВЖ100,ЭИ835,</br>ЭИ703,ЭИ696а,ЭИ826,ЭИ437Б,ВЖ98,ЭП99';
+   }
+      if (Metall_Point == "LOWC")
+   {
+   TypeMetall_Point.innerHTML = 'СТ10,СТ20';
+   }
+         if (Metall_Point == "LOWLEG")
+   {
+   TypeMetall_Point.innerHTML = '30XГСА,12Г2А,40ХНМА,25ХСНВФА,ЭИ659,СТ45';
+   }
+            if (Metall_Point == "NOCOR")
+   {
+   TypeMetall_Point.innerHTML = 'X18H9T,CH2,CH3,BHC2,BHC5,ЭИ654,</br>ЭИ811,ЭИ435,ЭИ101,ЭИ400,ЭИ402,ЭИ628';
+   }
+            if (Metall_Point == "TITAN")
+   {
+   TypeMetall_Point.innerHTML = 'OT4,BT6C,BT20';
+   }
    
-
 if (Thick_Point == "D16AT0.5")
 {    
     Iweld_Point.innerHTML = 'Сила тока:              17 kA';

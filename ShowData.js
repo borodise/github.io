@@ -1,7 +1,10 @@
 function calculateBMIShow() {  
    let ThickInput_Show = document.getElementById('Толщина_шов');
-   let Thick_Show = ThickInput_Show.options[ThickInput_Show.selectedIndex].value;   
+   let Thick_Show = ThickInput_Show.options[ThickInput_Show.selectedIndex].value;  
+   let MetallInput_Show = document.getElementById('Металл_шов');
+   let Metall_Show = MetallInput_Show.options[MetallInput_Show.selectedIndex].value;  
 
+   let TypeShow_Show = document.getElementById('TypeMetall_Show'); 
    let Iweld_Show = document.getElementById('Iweld_Show');
    let Tweld_Show = document.getElementById('Tweld_Show');
    let Tpauz_Show = document.getElementById('Tpauz_Show');
@@ -12,7 +15,29 @@ function calculateBMIShow() {
    let Picture_Show = document.getElementById('Picture_Show');
    let URL_show = document.getElementById('URL_Show');
     
-   
+ TypeMetall_Show.innerHTML = '';
+    
+   if (Metall_Show == "HEAT")
+   {
+   TypeMetall_Show.innerHTML = 'ЭИ602,ЭИ652,ВЖ85,ВЖ100,ЭИ835,</br>ЭИ703,ЭИ696а,ЭИ826,ЭИ437Б,ВЖ98,ЭП99';
+   }
+      if (Metall_Show == "LOWC")
+   {
+   TypeMetall_Show.innerHTML = 'СТ10,СТ20';
+   }
+         if (Metall_Show == "LOWLEG")
+   {
+   TypeMetall_Show.innerHTML = '30XГСА,12Г2А,40ХНМА,25ХСНВФА,ЭИ659,СТ45';
+   }
+            if (Metall_Show == "NOCOR")
+   {
+   TypeMetall_Show.innerHTML = 'X18H9T,CH2,CH3,BHC2,BHC5,ЭИ654,</br>ЭИ811,ЭИ435,ЭИ101,ЭИ400,ЭИ402,ЭИ628';
+   }
+            if (Metall_Show == "TITAN")
+   {
+   TypeMetall_Show.innerHTML = 'OT4,BT6C,BT20';
+   }
+     
 
 if (Thick_Show == "D16AT0.5")
 {    
