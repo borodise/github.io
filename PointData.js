@@ -738,7 +738,7 @@ if (Thick_Point == "D16ATAC0.5")
  } 
                            if (Thick_Point == "NOCOR0.3")
 {    
-    Iweld_Point.innerHTML = 'Сила тока:              5-5.5 kA';
+    Iweld_Point.innerHTML = 'Сила тока:              4-4.5 kA';
     Tweld_Point.innerHTML = 'Время сварки:           0.06-0.08 с';
     Fweld_Point.innerHTML = 'Усилие сварки:          1.5-2 кН';
     Relect_Point.innerHTML = 'Радиус электродов:      25 мм';
