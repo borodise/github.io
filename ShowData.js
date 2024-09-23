@@ -190,7 +190,7 @@ if (Thick_Show == "D16AT0.5")
     Fweld_Show.innerHTML = 'Усилие сварки:          5-8.5 кН';
     Tpauz_Show.innerHTML = 'Время паузы:            0.08-0.14 с';
     Vweld_Show.innerHTML = 'Скорость сварки:        0.5-0.6 м/мин';
-    Rroll_Show.innerHTML = 'Радиус роликов:         50 мм';
+    Rroll_Show.innerHTML = 'Радиус роликов:         25 мм';
     Droll_Show.innerHTML = 'Ширина роликов:         4 мм';
     Picture_Show.innerHTML = '<img src="msh-3207.jpg" />';
     URL_show.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
@@ -279,7 +279,7 @@ if (Thick_Show == "D16AT0.5")
     Tpauz_Show.innerHTML = 'Время паузы:            0.6-0.78 с';
     Vweld_Show.innerHTML = 'Скорость сварки:        0.15-0.25 м/мин';
     Rroll_Show.innerHTML = 'Радиус роликов:         150 мм';
-    Droll_Show.innerHTML = 'Ширина роликов:         9 мм';
+    Droll_Show.innerHTML = 'Ширина роликов:         10 мм';
     Picture_Show.innerHTML = '<img src="msh-3207.jpg" />';
     URL_show.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
  } 
@@ -539,7 +539,7 @@ if (Thick_Show == "D16AT0.5")
     Tpauz_Show.innerHTML = 'Время паузы:            0.16-0.2 с';
     Vweld_Show.innerHTML = 'Скорость сварки:        0.4-0.7 м/мин';
     Rroll_Show.innerHTML = 'Радиус роликов:         100 мм';
-    Droll_Show.innerHTML = 'Ширина роликов:         6 мм';
+    Droll_Show.innerHTML = 'Ширина роликов:         7 мм';
     Picture_Show.innerHTML = '<img src="msh-3207.jpg" />';
     URL_show.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
@@ -564,8 +564,8 @@ if (Thick_Show == "D16AT0.5")
     Fweld_Show.innerHTML = 'Усилие сварки:          11-14 кН';
     Tpauz_Show.innerHTML = 'Время паузы:            0.32-0.4 с';
     Vweld_Show.innerHTML = 'Скорость сварки:        0.3-0.5 м/мин';
-    Rroll_Show.innerHTML = 'Радиус роликов:         9 мм';
-    Droll_Show.innerHTML = 'Ширина роликов:         150 мм';
+    Rroll_Show.innerHTML = 'Радиус роликов:         150 мм';
+    Droll_Show.innerHTML = 'Ширина роликов:         9 мм';
     Picture_Show.innerHTML = '<img src="msh-3207.jpg" />';
     URL_show.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
@@ -674,7 +674,7 @@ if (Thick_Show == "D16AT0.5")
     Fweld_Show.innerHTML = 'Усилие сварки:          6.5-8.5 кН';
     Tpauz_Show.innerHTML = 'Время паузы:            0.32-0.44 с';
     Vweld_Show.innerHTML = 'Скорость сварки:        0.4-0.5 м/мин';
-    Rroll_Show.innerHTML = 'Радиус роликов:         100 мм';
+    Rroll_Show.innerHTML = 'Радиус роликов:         150 мм';
     Droll_Show.innerHTML = 'Ширина роликов:         9 мм';
     Picture_Show.innerHTML = '<img src="msh-3207.jpg" />';
     URL_show.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';

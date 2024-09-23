@@ -460,7 +460,7 @@ if (Thick_Point == "D16AT0.5")
     Iweld_Point.innerHTML = 'Сила тока:              5-5.5 kA';
     Tweld_Point.innerHTML = 'Время сварки:           0.06-0.08 с';
     Fweld_Point.innerHTML = 'Усилие сварки:          1.5-2 кН';
-    Relect_Point.innerHTML = 'Радиус электродов:      15 мм';
+    Relect_Point.innerHTML = 'Радиус электродов:      25 мм';
     Delect_Point.innerHTML = 'Диаметр электродов:     3 мм';
     Picture_Point.innerHTML = '<img src="4019.jpg" />';
     URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
