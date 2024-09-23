@@ -160,6 +160,126 @@ if (Thick_Point == "D16ATAC0.5")
     Fkovk_Point.innerHTML = 'Усилие ковки:           12 кН';
     
  } 
+       if (Thick_Point == "D16ATDC0.5")
+{
+    Iweld_Point.innerHTML = 'Сила тока:              22 kA';
+    Tweld_Point.innerHTML = 'Время сварки:           0.04 с';
+    Fweld_Point.innerHTML = 'Усилие сварки:          2 кН';
+    Tkovk_Point.innerHTML = 'Время ковки:            0.04 с';
+    Fkovk_Point.innerHTML = 'Усилие ковки:           4.5 кН';
+    Idop_Point.innerHTML = 'Сила доп.тока:          15 kA';
+    Tdop_Point.innerHTML = 'Время доп.тока:         0.04 c';
+    Relect_Point.innerHTML = 'Радиус электродов:      25 мм';
+    Delect_Point.innerHTML = 'Диаметр электродов:     4 мм';
+    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
+    
+}
+       if (Thick_Point == "D16ATDC0.8")
+{
+    Iweld_Point.innerHTML = 'Сила тока:              26 kA';
+    Tweld_Point.innerHTML = 'Время сварки:           0.06 с';
+    Fweld_Point.innerHTML = 'Усилие сварки:          3 кН';
+    Tkovk_Point.innerHTML = 'Время ковки:            0.08 с';
+    Fkovk_Point.innerHTML = 'Усилие ковки:           7 кН';
+    Idop_Point.innerHTML = 'Сила доп.тока:          18 kA';
+    Tdop_Point.innerHTML = 'Время доп.тока:         0.04 c';
+    Relect_Point.innerHTML = 'Радиус электродов:      50 мм';
+    Delect_Point.innerHTML = 'Диаметр электродов:     5 мм';
+    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
+    
+}
+       if (Thick_Point == "D16ATDC1")
+{
+    Iweld_Point.innerHTML = 'Сила тока:              30 kA';
+    Tweld_Point.innerHTML = 'Время сварки:           0.08 с';
+    Fweld_Point.innerHTML = 'Усилие сварки:          4 кН';
+    Tkovk_Point.innerHTML = 'Время ковки:            0.1 с';
+    Fkovk_Point.innerHTML = 'Усилие ковки:           9 кН';
+    Idop_Point.innerHTML = 'Сила доп.тока:          20 kA';
+    Tdop_Point.innerHTML = 'Время доп.тока:         0.06 c';
+    Relect_Point.innerHTML = 'Радиус электродов:      75 мм';
+    Delect_Point.innerHTML = 'Диаметр электродов:     5 мм';
+    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
+    
+}
+       if (Thick_Point == "D16ATDC1.2")
+{
+    Iweld_Point.innerHTML = 'Сила тока:              33 kA';
+    Tweld_Point.innerHTML = 'Время сварки:           0.1 с';
+    Fweld_Point.innerHTML = 'Усилие сварки:          5.5 кН';
+    Tkovk_Point.innerHTML = 'Время ковки:            0.12 с';
+    Fkovk_Point.innerHTML = 'Усилие ковки:           13 кН';
+    Idop_Point.innerHTML = 'Сила доп.тока:          24 kA';
+    Tdop_Point.innerHTML = 'Время доп.тока:         0.1 c';
+    Relect_Point.innerHTML = 'Радиус электродов:      75 мм';
+    Delect_Point.innerHTML = 'Диаметр электродов:     6 мм';
+    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
+    
+}
+       if (Thick_Point == "D16ATDC1.5")
+{
+    Iweld_Point.innerHTML = 'Сила тока:              38 kA';
+    Tweld_Point.innerHTML = 'Время сварки:           0.14 с';
+    Fweld_Point.innerHTML = 'Усилие сварки:          7 кН';
+    Tkovk_Point.innerHTML = 'Время ковки:            0.16 с';
+    Fkovk_Point.innerHTML = 'Усилие ковки:           16 кН';
+    Idop_Point.innerHTML = 'Сила доп.тока:          27 kA';
+    Tdop_Point.innerHTML = 'Время доп.тока:         0.12 c';
+    Relect_Point.innerHTML = 'Радиус электродов:      100 мм';
+    Delect_Point.innerHTML = 'Диаметр электродов:     7 мм';
+    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
+    
+}
+       if (Thick_Point == "D16ATDC2")
+{
+    Iweld_Point.innerHTML = 'Сила тока:              44 kA';
+    Tweld_Point.innerHTML = 'Время сварки:           0.16 с';
+    Fweld_Point.innerHTML = 'Усилие сварки:          10 кН';
+    Tkovk_Point.innerHTML = 'Время ковки:            0.18 с';
+    Fkovk_Point.innerHTML = 'Усилие ковки:           22 кН';
+    Idop_Point.innerHTML = 'Сила доп.тока:          32 kA';
+    Tdop_Point.innerHTML = 'Время доп.тока:         0.12 c';
+    Relect_Point.innerHTML = 'Радиус электродов:      100 мм';
+    Delect_Point.innerHTML = 'Диаметр электродов:     8 мм';
+    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
+    
+}
+       if (Thick_Point == "D16ATDC3")
+{
+    Iweld_Point.innerHTML = 'Сила тока:              65 kA';
+    Tweld_Point.innerHTML = 'Время сварки:           0.2 с';
+    Fweld_Point.innerHTML = 'Усилие сварки:          13 кН';
+    Tkovk_Point.innerHTML = 'Время ковки:            0.24 с';
+    Fkovk_Point.innerHTML = 'Усилие ковки:           32 кН';
+    Idop_Point.innerHTML = 'Сила доп.тока:          46 kA';
+    Tdop_Point.innerHTML = 'Время доп.тока:         0.14 c';
+    Relect_Point.innerHTML = 'Радиус электродов:      150 мм';
+    Delect_Point.innerHTML = 'Диаметр электродов:     10 мм';
+    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
+    
+}
+       if (Thick_Point == "D16ATDC4")
+{
+    Iweld_Point.innerHTML = 'Сила тока:              72 kA';
+    Tweld_Point.innerHTML = 'Время сварки:           0.22 с';
+    Fweld_Point.innerHTML = 'Усилие сварки:          30 кН';
+    Tkovk_Point.innerHTML = 'Время ковки:            0.26 с';
+    Fkovk_Point.innerHTML = 'Усилие ковки:           60 кН';
+    Idop_Point.innerHTML = 'Сила доп.тока:          50 kA';
+    Tdop_Point.innerHTML = 'Время доп.тока:         0.14 c';
+    Relect_Point.innerHTML = 'Радиус электродов:      200 мм';
+    Delect_Point.innerHTML = 'Диаметр электродов:     12 мм';
+    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
+    
+}
       if (Thick_Point == "AMGAMAC0.5")
 {    
     Iweld_Point.innerHTML = 'Сила тока:              16 kA';
