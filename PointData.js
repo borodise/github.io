@@ -61,7 +61,7 @@ function calculateBMIPoint() {
    TypeMetall_Point.innerHTML = 'OT4,BT6C,BT20';
    }
    
-if (Thick_Point == "D16AT0.5")
+if (Thick_Point == "D16ATAC0.5")
 {    
     Iweld_Point.innerHTML = 'Сила тока:              17 kA';
     Tweld_Point.innerHTML = 'Время сварки:           0.08 с';
@@ -82,7 +82,7 @@ if (Thick_Point == "D16AT0.5")
     
     
  }   
-    if (Thick_Point == "D16AT0.8")
+    if (Thick_Point == "D16ATAC0.8")
 {    
     Iweld_Point.innerHTML = 'Сила тока:              19 kA';
     Tweld_Point.innerHTML = 'Время сварки:           0.1 с';
@@ -101,7 +101,7 @@ if (Thick_Point == "D16AT0.5")
     Tspad_Point.innerHTML = 'Время спада:            0.14 с';
     
  } 
-     if (Thick_Point == "D16AT1")
+     if (Thick_Point == "D16ATAC1")
 {    
     Iweld_Point.innerHTML = 'Сила тока:              24 kA';
     Tweld_Point.innerHTML = 'Время сварки:           0.12 с';
@@ -119,7 +119,7 @@ if (Thick_Point == "D16AT0.5")
     Tspad_Point.innerHTML = 'Время спада:            0.14 с';
     
  } 
-     if (Thick_Point == "D16AT1.5")
+     if (Thick_Point == "D16ATAC1.5")
 {    
     Iweld_Point.innerHTML = 'Сила тока:              30 kA';
     Tweld_Point.innerHTML = 'Время сварки:           0.16 с';
@@ -140,7 +140,7 @@ if (Thick_Point == "D16AT0.5")
 
     
  } 
-      if (Thick_Point == "D16AT2")
+      if (Thick_Point == "D16ATAC2")
 {    
     Iweld_Point.innerHTML = 'Сила тока:              35 kA';
     Tweld_Point.innerHTML = 'Время сварки:           0.2 с';
