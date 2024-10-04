@@ -127,7 +127,7 @@ if (Thick_Show == "D16AT0.5")
     Rroll_Show.innerHTML = 'Радиус роликов:         50 мм';
     Droll_Show.innerHTML = 'Ширина роликов:         5 мм';
     Picture_Show.innerHTML = '<img src="msh-3207.jpg" />';
-    URL_show.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
+    URL_show.innerHTML = '<a href="https://astpskov.ru/catalog/mashiny-kontaktnoj-svarki/69/">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
  } 
         if (Thick_Show == "AMGAM1")
@@ -139,8 +139,8 @@ if (Thick_Show == "D16AT0.5")
     Vweld_Show.innerHTML = 'Скорость сварки:        0.5 м/мин';
     Rroll_Show.innerHTML = 'Радиус роликов:         75 мм';
     Droll_Show.innerHTML = 'Ширина роликов:         5 мм';
-    Picture_Show.innerHTML = '<img src="msh-3207.jpg" />';
-    URL_show.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
+    Picture_Show.innerHTML = '<img src="MSHV-8001.png" />';
+    URL_show.innerHTML = '<a href="https://astpskov.ru/catalog/mashiny-kontaktnoj-svarki/118/">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
  } 
           if (Thick_Show == "AMGAM1.2")
@@ -152,8 +152,8 @@ if (Thick_Show == "D16AT0.5")
     Vweld_Show.innerHTML = 'Скорость сварки:        0.45 м/мин';
     Rroll_Show.innerHTML = 'Радиус роликов:         75 мм';
     Droll_Show.innerHTML = 'Ширина роликов:         6 мм';
-    Picture_Show.innerHTML = '<img src="msh-3207.jpg" />';
-    URL_show.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
+    Picture_Show.innerHTML = '<img src="MSHV-8001.png" />';
+    URL_show.innerHTML = '<a href="https://astpskov.ru/catalog/mashiny-kontaktnoj-svarki/118/">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
  } 
          if (Thick_Show == "AMGAM1.5")
@@ -165,8 +165,8 @@ if (Thick_Show == "D16AT0.5")
     Vweld_Show.innerHTML = 'Скорость сварки:        0.4 м/мин';
     Rroll_Show.innerHTML = 'Радиус роликов:         100 мм';
     Droll_Show.innerHTML = 'Ширина роликов:         7 мм';
-    Picture_Show.innerHTML = '<img src="msh-3207.jpg" />';
-    URL_show.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
+    Picture_Show.innerHTML = '<img src="MSHV-8001.png" />';
+    URL_show.innerHTML = '<a href="https://astpskov.ru/catalog/mashiny-kontaktnoj-svarki/118/">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
  } 
 
@@ -180,7 +180,7 @@ if (Thick_Show == "D16AT0.5")
     Rroll_Show.innerHTML = 'Радиус роликов:         25 мм';
     Droll_Show.innerHTML = 'Ширина роликов:         3 мм';
     Picture_Show.innerHTML = '<img src="msh-3207.jpg" />';
-    URL_show.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
+    URL_show.innerHTML = '<a href="https://astpskov.ru/catalog/mashiny-kontaktnoj-svarki/69/">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
  } 
           if (Thick_Show == "HEAT0.5")
@@ -193,7 +193,7 @@ if (Thick_Show == "D16AT0.5")
     Rroll_Show.innerHTML = 'Радиус роликов:         25 мм';
     Droll_Show.innerHTML = 'Ширина роликов:         4 мм';
     Picture_Show.innerHTML = '<img src="msh-3207.jpg" />';
-    URL_show.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
+    URL_show.innerHTML = '<a href="https://astpskov.ru/catalog/mashiny-kontaktnoj-svarki/69/">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
  } 
            if (Thick_Show == "HEAT0.8")
@@ -206,7 +206,7 @@ if (Thick_Show == "D16AT0.5")
     Rroll_Show.innerHTML = 'Радиус роликов:         50 мм';
     Droll_Show.innerHTML = 'Ширина роликов:         5 мм';
     Picture_Show.innerHTML = '<img src="msh-3207.jpg" />';
-    URL_show.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
+    URL_show.innerHTML = '<a href="https://astpskov.ru/catalog/mashiny-kontaktnoj-svarki/69/">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
  } 
             if (Thick_Show == "HEAT1")
@@ -219,7 +219,7 @@ if (Thick_Show == "D16AT0.5")
     Rroll_Show.innerHTML = 'Радиус роликов:         75 мм';
     Droll_Show.innerHTML = 'Ширина роликов:         5 мм';
     Picture_Show.innerHTML = '<img src="msh-3207.jpg" />';
-    URL_show.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
+    URL_show.innerHTML = '<a href="https://astpskov.ru/catalog/mashiny-kontaktnoj-svarki/69/">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
  } 
              if (Thick_Show == "HEAT1.2")
@@ -232,7 +232,7 @@ if (Thick_Show == "D16AT0.5")
     Rroll_Show.innerHTML = 'Радиус роликов:         75 мм';
     Droll_Show.innerHTML = 'Ширина роликов:         6 мм';
     Picture_Show.innerHTML = '<img src="msh-3207.jpg" />';
-    URL_show.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
+    URL_show.innerHTML = '<a href="https://astpskov.ru/catalog/mashiny-kontaktnoj-svarki/69/">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
  } 
               if (Thick_Show == "HEAT1.5")
@@ -245,7 +245,7 @@ if (Thick_Show == "D16AT0.5")
     Rroll_Show.innerHTML = 'Радиус роликов:         100 мм';
     Droll_Show.innerHTML = 'Ширина роликов:         7 мм';
     Picture_Show.innerHTML = '<img src="msh-3207.jpg" />';
-    URL_show.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
+    URL_show.innerHTML = '<a href="https://astpskov.ru/catalog/mashiny-kontaktnoj-svarki/69/">Посмотреть характеристики машины на сайте КБ АСТ</a>';
  } 
                if (Thick_Show == "HEAT2")
 {    
@@ -256,8 +256,8 @@ if (Thick_Show == "D16AT0.5")
     Vweld_Show.innerHTML = 'Скорость сварки:        0.2-0.35 м/мин';
     Rroll_Show.innerHTML = 'Радиус роликов:         100 мм';
     Droll_Show.innerHTML = 'Ширина роликов:         8 мм';
-    Picture_Show.innerHTML = '<img src="msh-3207.jpg" />';
-    URL_show.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
+    Picture_Show.innerHTML = '<img src="MSHV-8001.png" />';
+    URL_show.innerHTML = '<a href="https://astpskov.ru/catalog/mashiny-kontaktnoj-svarki/118/">Посмотреть характеристики машины на сайте КБ АСТ</a>';
  } 
                 if (Thick_Show == "HEAT2.5")
 {    
@@ -268,8 +268,8 @@ if (Thick_Show == "D16AT0.5")
     Vweld_Show.innerHTML = 'Скорость сварки:        0.15-0.3 м/мин';
     Rroll_Show.innerHTML = 'Радиус роликов:         150 мм';
     Droll_Show.innerHTML = 'Ширина роликов:         9 мм';
-    Picture_Show.innerHTML = '<img src="msh-3207.jpg" />';
-    URL_show.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
+    Picture_Show.innerHTML = '<img src="MSHV-8001.png" />';
+    URL_show.innerHTML = '<a href="https://astpskov.ru/catalog/mashiny-kontaktnoj-svarki/118/">Посмотреть характеристики машины на сайте КБ АСТ</a>';
  } 
                  if (Thick_Show == "HEAT3")
 {    
@@ -280,8 +280,8 @@ if (Thick_Show == "D16AT0.5")
     Vweld_Show.innerHTML = 'Скорость сварки:        0.15-0.25 м/мин';
     Rroll_Show.innerHTML = 'Радиус роликов:         150 мм';
     Droll_Show.innerHTML = 'Ширина роликов:         10 мм';
-    Picture_Show.innerHTML = '<img src="msh-3207.jpg" />';
-    URL_show.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
+    Picture_Show.innerHTML = '<img src="MSHV-8001.png" />';
+    URL_show.innerHTML = '<a href="https://astpskov.ru/catalog/mashiny-kontaktnoj-svarki/118/">Посмотреть характеристики машины на сайте КБ АСТ</a>';
  } 
  
                   if (Thick_Show == "LOWC0.5")
@@ -293,8 +293,8 @@ if (Thick_Show == "D16AT0.5")
     Vweld_Show.innerHTML = 'Скорость сварки:        1.2-1.4 м/мин';
     Rroll_Show.innerHTML = 'Радиус роликов:         25 мм';
     Droll_Show.innerHTML = 'Ширина роликов:         4 мм';
-    Picture_Show.innerHTML = '<img src="msh-3207.jpg" />';
-    URL_show.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
+    Picture_Show.innerHTML = '<img src="MSHI-01.png" />';
+    URL_show.innerHTML = '<a href="https://astpskov.ru/catalog/mashiny-kontaktnoj-svarki/70/">Посмотреть характеристики машины на сайте КБ АСТ</a>';
  } 
                    if (Thick_Show == "LOWC0.8")
 {    
@@ -305,8 +305,8 @@ if (Thick_Show == "D16AT0.5")
     Vweld_Show.innerHTML = 'Скорость сварки:        1-1.2 м/мин';
     Rroll_Show.innerHTML = 'Радиус роликов:         50 мм';
     Droll_Show.innerHTML = 'Ширина роликов:         5 мм';
-    Picture_Show.innerHTML = '<img src="msh-3207.jpg" />';
-    URL_show.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
+    Picture_Show.innerHTML = '<img src="MSHI-02.png" />';
+    URL_show.innerHTML = '<a href="https://astpskov.ru/catalog/mashiny-kontaktnoj-svarki/120/">Посмотреть характеристики машины на сайте КБ АСТ</a>';
  } 
                     if (Thick_Show == "LOWC1")
 {    
@@ -318,7 +318,7 @@ if (Thick_Show == "D16AT0.5")
     Rroll_Show.innerHTML = 'Радиус роликов:         75 мм';
     Droll_Show.innerHTML = 'Ширина роликов:         5 мм';
     Picture_Show.innerHTML = '<img src="msh-3207.jpg" />';
-    URL_show.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>'; 
+    URL_show.innerHTML = '<a href="https://astpskov.ru/catalog/mashiny-kontaktnoj-svarki/69/">Посмотреть характеристики машины на сайте КБ АСТ</a>'; 
  } 
                      if (Thick_Show == "LOWC1.2")
 {    
@@ -330,7 +330,7 @@ if (Thick_Show == "D16AT0.5")
     Rroll_Show.innerHTML = 'Радиус роликов:         75 мм';
     Droll_Show.innerHTML = 'Ширина роликов:         6 мм';
     Picture_Show.innerHTML = '<img src="msh-3207.jpg" />';
-    URL_show.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
+    URL_show.innerHTML = '<a href="https://astpskov.ru/catalog/mashiny-kontaktnoj-svarki/69/">Посмотреть характеристики машины на сайте КБ АСТ</a>';
  } 
                       if (Thick_Show == "LOWC1.5")
 {    
@@ -342,7 +342,7 @@ if (Thick_Show == "D16AT0.5")
     Rroll_Show.innerHTML = 'Радиус роликов:         100 мм';
     Droll_Show.innerHTML = 'Ширина роликов:         7 мм';
     Picture_Show.innerHTML = '<img src="msh-3207.jpg" />';
-    URL_show.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
+    URL_show.innerHTML = '<a href="https://astpskov.ru/catalog/mashiny-kontaktnoj-svarki/69/">Посмотреть характеристики машины на сайте КБ АСТ</a>';
  } 
                        if (Thick_Show == "LOWC2")
 {    
@@ -354,7 +354,7 @@ if (Thick_Show == "D16AT0.5")
     Rroll_Show.innerHTML = 'Радиус роликов:         100 мм';
     Droll_Show.innerHTML = 'Ширина роликов:         8 мм';
     Picture_Show.innerHTML = '<img src="msh-3207.jpg" />';
-    URL_show.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
+    URL_show.innerHTML = '<a href="https://astpskov.ru/catalog/mashiny-kontaktnoj-svarki/69/">Посмотреть характеристики машины на сайте КБ АСТ</a>';
  } 
                         if (Thick_Show == "LOWC3")
 {    
@@ -366,7 +366,7 @@ if (Thick_Show == "D16AT0.5")
     Rroll_Show.innerHTML = 'Радиус роликов:         150 мм';
     Droll_Show.innerHTML = 'Ширина роликов:         10 мм';
     Picture_Show.innerHTML = '<img src="msh-3207.jpg" />';
-    URL_show.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>'; 
+    URL_show.innerHTML = '<a href="https://astpskov.ru/catalog/mashiny-kontaktnoj-svarki/69/">Посмотреть характеристики машины на сайте КБ АСТ</a>'; 
  } 
 
                            if (Thick_Show == "LOWLEG0.5")
@@ -474,8 +474,8 @@ if (Thick_Show == "D16AT0.5")
     Vweld_Show.innerHTML = 'Скорость сварки:        0.8-1.6 м/мин';
     Rroll_Show.innerHTML = 'Радиус роликов:         25 мм';
     Droll_Show.innerHTML = 'Ширина роликов:         3 мм';
-    Picture_Show.innerHTML = '<img src="msh-3207.jpg" />';
-    URL_show.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
+    Picture_Show.innerHTML = '<img src="MSHI-02.png" />';
+    URL_show.innerHTML = '<a href="https://astpskov.ru/catalog/mashiny-kontaktnoj-svarki/120/">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
  } 
  
@@ -488,8 +488,8 @@ if (Thick_Show == "D16AT0.5")
     Vweld_Show.innerHTML = 'Скорость сварки:        0.6-1.3 м/мин';
     Rroll_Show.innerHTML = 'Радиус роликов:         25 мм';
     Droll_Show.innerHTML = 'Ширина роликов:         4 мм';
-    Picture_Show.innerHTML = '<img src="msh-3207.jpg" />';
-    URL_show.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
+    Picture_Show.innerHTML = '<img src="MSH-2501.png" />';
+    URL_show.innerHTML = '<a href="https://astpskov.ru/catalog/mashiny-kontaktnoj-svarki/113/">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
  } 
                              if (Thick_Show == "NOCOR0.8")
@@ -501,8 +501,8 @@ if (Thick_Show == "D16AT0.5")
     Vweld_Show.innerHTML = 'Скорость сварки:        0.5-1 м/мин';
     Rroll_Show.innerHTML = 'Радиус роликов:         50 мм';
     Droll_Show.innerHTML = 'Ширина роликов:         5 мм';
-    Picture_Show.innerHTML = '<img src="msh-3207.jpg" />';
-    URL_show.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
+    Picture_Show.innerHTML = '<img src="MSH-2501.png" />';
+    URL_show.innerHTML = '<a href="https://astpskov.ru/catalog/mashiny-kontaktnoj-svarki/113/">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
  } 
                               if (Thick_Show == "NOCOR1")
@@ -515,7 +515,7 @@ if (Thick_Show == "D16AT0.5")
     Rroll_Show.innerHTML = 'Радиус роликов:         75 мм';
     Droll_Show.innerHTML = 'Ширина роликов:         5 мм';
     Picture_Show.innerHTML = '<img src="msh-3207.jpg" />';
-    URL_show.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
+    URL_show.innerHTML = '<a href="https://astpskov.ru/catalog/mashiny-kontaktnoj-svarki/69/">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
  } 
                                if (Thick_Show == "NOCOR1.2")
@@ -528,7 +528,7 @@ if (Thick_Show == "D16AT0.5")
     Rroll_Show.innerHTML = 'Радиус роликов:         75 мм';
     Droll_Show.innerHTML = 'Ширина роликов:         6 мм';
     Picture_Show.innerHTML = '<img src="msh-3207.jpg" />';
-    URL_show.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
+    URL_show.innerHTML = '<a href="https://astpskov.ru/catalog/mashiny-kontaktnoj-svarki/69/">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
  } 
                                 if (Thick_Show == "NOCOR1.5")
@@ -541,7 +541,7 @@ if (Thick_Show == "D16AT0.5")
     Rroll_Show.innerHTML = 'Радиус роликов:         100 мм';
     Droll_Show.innerHTML = 'Ширина роликов:         7 мм';
     Picture_Show.innerHTML = '<img src="msh-3207.jpg" />';
-    URL_show.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
+    URL_show.innerHTML = '<a href="https://astpskov.ru/catalog/mashiny-kontaktnoj-svarki/69/">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
  } 
                                  if (Thick_Show == "NOCOR2")
@@ -554,7 +554,7 @@ if (Thick_Show == "D16AT0.5")
     Rroll_Show.innerHTML = 'Радиус роликов:         100 мм';
     Droll_Show.innerHTML = 'Ширина роликов:         8 мм';
     Picture_Show.innerHTML = '<img src="msh-3207.jpg" />';
-    URL_show.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
+    URL_show.innerHTML = '<a href="https://astpskov.ru/catalog/mashiny-kontaktnoj-svarki/69/">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
  } 
                                   if (Thick_Show == "NOCOR2.5")
@@ -566,8 +566,8 @@ if (Thick_Show == "D16AT0.5")
     Vweld_Show.innerHTML = 'Скорость сварки:        0.3-0.5 м/мин';
     Rroll_Show.innerHTML = 'Радиус роликов:         150 мм';
     Droll_Show.innerHTML = 'Ширина роликов:         9 мм';
-    Picture_Show.innerHTML = '<img src="msh-3207.jpg" />';
-    URL_show.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
+    Picture_Show.innerHTML = '<img src="MSHV-8001.png" />';
+    URL_show.innerHTML = '<a href="https://astpskov.ru/catalog/mashiny-kontaktnoj-svarki/118/">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
  } 
                                    if (Thick_Show == "NOCOR3")
@@ -579,8 +579,8 @@ if (Thick_Show == "D16AT0.5")
     Vweld_Show.innerHTML = 'Скорость сварки:        0.2-0.4 м/мин';
     Rroll_Show.innerHTML = 'Радиус роликов:         10 мм';
     Droll_Show.innerHTML = 'Ширина роликов:         150 мм';
-    Picture_Show.innerHTML = '<img src="msh-3207.jpg" />';
-    URL_show.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
+    Picture_Show.innerHTML = '<img src="MSHV-8001.png" />';
+    URL_show.innerHTML = '<a href="https://astpskov.ru/catalog/mashiny-kontaktnoj-svarki/118/">Посмотреть характеристики машины на сайте КБ АСТ</a>';
  } 
  
                                     if (Thick_Show == "TITAN0.3")
@@ -592,8 +592,8 @@ if (Thick_Show == "D16AT0.5")
     Vweld_Show.innerHTML = 'Скорость сварки:        1-1.2 м/мин';
     Rroll_Show.innerHTML = 'Радиус роликов:         25 мм';
     Droll_Show.innerHTML = 'Ширина роликов:         3 мм';
-    Picture_Show.innerHTML = '<img src="msh-3207.jpg" />';
-    URL_show.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
+    Picture_Show.innerHTML = '<img src="MSHI-01.png" />';
+    URL_show.innerHTML = '<a href="https://astpskov.ru/catalog/mashiny-kontaktnoj-svarki/70/">Посмотреть характеристики машины на сайте КБ АСТ</a>';
  } 
                                      if (Thick_Show == "TITAN0.5")
 {    
@@ -605,7 +605,7 @@ if (Thick_Show == "D16AT0.5")
     Rroll_Show.innerHTML = 'Радиус роликов:         25 мм';
     Droll_Show.innerHTML = 'Ширина роликов:         4 мм';
     Picture_Show.innerHTML = '<img src="msh-3207.jpg" />';
-    URL_show.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
+    URL_show.innerHTML = '<a href="https://astpskov.ru/catalog/mashiny-kontaktnoj-svarki/69/">Посмотреть характеристики машины на сайте КБ АСТ</a>';
  } 
                                       if (Thick_Show == "TITAN0.8")
 {    
@@ -617,7 +617,7 @@ if (Thick_Show == "D16AT0.5")
     Rroll_Show.innerHTML = 'Радиус роликов:         50 мм';
     Droll_Show.innerHTML = 'Ширина роликов:         5 мм';
     Picture_Show.innerHTML = '<img src="msh-3207.jpg" />';
-    URL_show.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>'; 
+    URL_show.innerHTML = '<a href="https://astpskov.ru/catalog/mashiny-kontaktnoj-svarki/69/">Посмотреть характеристики машины на сайте КБ АСТ</a>'; 
  } 
                                        if (Thick_Show == "TITAN1")
 {    
@@ -629,7 +629,7 @@ if (Thick_Show == "D16AT0.5")
     Rroll_Show.innerHTML = 'Радиус роликов:         75 мм';
     Droll_Show.innerHTML = 'Ширина роликов:         5 мм';
     Picture_Show.innerHTML = '<img src="msh-3207.jpg" />';
-    URL_show.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>'; 
+    URL_show.innerHTML = '<a href="https://astpskov.ru/catalog/mashiny-kontaktnoj-svarki/69/">Посмотреть характеристики машины на сайте КБ АСТ</a>'; 
  }
                                         if (Thick_Show == "TITAN1.2")
 {    
@@ -641,7 +641,7 @@ if (Thick_Show == "D16AT0.5")
     Rroll_Show.innerHTML = 'Радиус роликов:         75 мм';
     Droll_Show.innerHTML = 'Ширина роликов:         6 мм';
     Picture_Show.innerHTML = '<img src="msh-3207.jpg" />';
-    URL_show.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
+    URL_show.innerHTML = '<a href="https://astpskov.ru/catalog/mashiny-kontaktnoj-svarki/69/">Посмотреть характеристики машины на сайте КБ АСТ</a>';
  }
                                          if (Thick_Show == "TITAN1.5")
 {    
@@ -653,7 +653,7 @@ if (Thick_Show == "D16AT0.5")
     Rroll_Show.innerHTML = 'Радиус роликов:         100 мм';
     Droll_Show.innerHTML = 'Ширина роликов:         7 мм';
     Picture_Show.innerHTML = '<img src="msh-3207.jpg" />';
-    URL_show.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
+    URL_show.innerHTML = '<a href="https://astpskov.ru/catalog/mashiny-kontaktnoj-svarki/69/">Посмотреть характеристики машины на сайте КБ АСТ</a>';
  }
                                           if (Thick_Show == "TITAN2")
 {    
@@ -665,7 +665,7 @@ if (Thick_Show == "D16AT0.5")
     Rroll_Show.innerHTML = 'Радиус роликов:         100 мм';
     Droll_Show.innerHTML = 'Ширина роликов:         8 мм';
     Picture_Show.innerHTML = '<img src="msh-3207.jpg" />';
-    URL_show.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
+    URL_show.innerHTML = '<a href="https://astpskov.ru/catalog/mashiny-kontaktnoj-svarki/69/">Посмотреть характеристики машины на сайте КБ АСТ</a>';
  }
                                            if (Thick_Show == "TITAN2.5")
 {    
@@ -676,8 +676,8 @@ if (Thick_Show == "D16AT0.5")
     Vweld_Show.innerHTML = 'Скорость сварки:        0.4-0.5 м/мин';
     Rroll_Show.innerHTML = 'Радиус роликов:         150 мм';
     Droll_Show.innerHTML = 'Ширина роликов:         9 мм';
-    Picture_Show.innerHTML = '<img src="msh-3207.jpg" />';
-    URL_show.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
+    Picture_Show.innerHTML = '<img src="MSHV-8001.png" />';
+    URL_show.innerHTML = '<a href="https://astpskov.ru/catalog/mashiny-kontaktnoj-svarki/118/">Посмотреть характеристики машины на сайте КБ АСТ</a>';
  }
                                             if (Thick_Show == "TITAN3")
 {    
@@ -688,7 +688,7 @@ if (Thick_Show == "D16AT0.5")
     Vweld_Show.innerHTML = 'Скорость сварки:        0.3-0.4 м/мин';
     Rroll_Show.innerHTML = 'Радиус роликов:         150 мм';
     Droll_Show.innerHTML = 'Ширина роликов:         10 мм';
-    Picture_Show.innerHTML = '<img src="msh-3207.jpg" />';
-    URL_show.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
+    Picture_Show.innerHTML = '<img src="MSHV-8001.png" />';
+    URL_show.innerHTML = '<a href="https://astpskov.ru/catalog/mashiny-kontaktnoj-svarki/118/">Посмотреть характеристики машины на сайте КБ АСТ</a>';
  }
  }

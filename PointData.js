@@ -68,7 +68,7 @@ if (Thick_Point == "D16ATAC0.5")
     Fweld_Point.innerHTML = 'Усилие сварки:          2.2 кН';
     Relect_Point.innerHTML = 'Радиус электродов:      25 мм';
     Delect_Point.innerHTML = 'Диаметр электродов:     4 мм';
-    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    Picture_Point.innerHTML = '<img src="MT-4019I.jpg" />';
     
     URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
@@ -89,7 +89,7 @@ if (Thick_Point == "D16ATAC0.5")
     Fweld_Point.innerHTML = 'Усилие сварки:          3.5 кН';
     Relect_Point.innerHTML = 'Радиус электродов:      50 мм';
     Delect_Point.innerHTML = 'Диаметр электродов:     5 мм';
-    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    Picture_Point.innerHTML = '<img src="MT-4019I.jpg" />';
     
     URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
@@ -108,7 +108,7 @@ if (Thick_Point == "D16ATAC0.5")
     Fweld_Point.innerHTML = 'Усилие сварки:          4.5 кН';
     Relect_Point.innerHTML = 'Радиус электродов:      75 мм';
     Delect_Point.innerHTML = 'Диаметр электродов:     5 мм';
-    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    Picture_Point.innerHTML = '<img src="MT-4019I.jpg" />';
     URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
         Text_Point.innerHTML = '	Второй вариант';
@@ -126,7 +126,7 @@ if (Thick_Point == "D16ATAC0.5")
     Fweld_Point.innerHTML = 'Усилие сварки:          6.5 кН';
     Relect_Point.innerHTML = 'Радиус электродов:      100 мм';
     Delect_Point.innerHTML = 'Диаметр электродов:     7 мм';
-    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    Picture_Point.innerHTML = '<img src="MT-4019I.jpg" />';
     URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
             Text_Point.innerHTML = '	С ковкой';
@@ -147,7 +147,7 @@ if (Thick_Point == "D16ATAC0.5")
     Fweld_Point.innerHTML = 'Усилие сварки:          8 кН';
     Relect_Point.innerHTML = 'Радиус электродов:      100 мм';
     Delect_Point.innerHTML = 'Диаметр электродов:     8 мм';
-    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    Picture_Point.innerHTML = '<img src="MT-4019I.jpg" />';
     URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
                 Text_Point.innerHTML = '	С ковкой';
@@ -171,7 +171,7 @@ if (Thick_Point == "D16ATAC0.5")
     Tdop_Point.innerHTML = 'Время доп.тока:         0.04 c';
     Relect_Point.innerHTML = 'Радиус электродов:      25 мм';
     Delect_Point.innerHTML = 'Диаметр электродов:     4 мм';
-    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    Picture_Point.innerHTML = '<img src="MT-4019I.jpg" />';
     URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
 }
@@ -186,7 +186,7 @@ if (Thick_Point == "D16ATAC0.5")
     Tdop_Point.innerHTML = 'Время доп.тока:         0.04 c';
     Relect_Point.innerHTML = 'Радиус электродов:      50 мм';
     Delect_Point.innerHTML = 'Диаметр электродов:     5 мм';
-    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    Picture_Point.innerHTML = '<img src="MT-4019I.jpg" />';
     URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
 }
@@ -201,7 +201,7 @@ if (Thick_Point == "D16ATAC0.5")
     Tdop_Point.innerHTML = 'Время доп.тока:         0.06 c';
     Relect_Point.innerHTML = 'Радиус электродов:      75 мм';
     Delect_Point.innerHTML = 'Диаметр электродов:     5 мм';
-    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    Picture_Point.innerHTML = '<img src="MT-4019I.jpg" />';
     URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
 }
@@ -216,7 +216,7 @@ if (Thick_Point == "D16ATAC0.5")
     Tdop_Point.innerHTML = 'Время доп.тока:         0.1 c';
     Relect_Point.innerHTML = 'Радиус электродов:      75 мм';
     Delect_Point.innerHTML = 'Диаметр электродов:     6 мм';
-    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    Picture_Point.innerHTML = '<img src="MT-4019I.jpg" />';
     URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
 }
@@ -231,7 +231,7 @@ if (Thick_Point == "D16ATAC0.5")
     Tdop_Point.innerHTML = 'Время доп.тока:         0.12 c';
     Relect_Point.innerHTML = 'Радиус электродов:      100 мм';
     Delect_Point.innerHTML = 'Диаметр электродов:     7 мм';
-    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    Picture_Point.innerHTML = '<img src="MT-4019I.jpg" />';
     URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
 }
@@ -246,7 +246,7 @@ if (Thick_Point == "D16ATAC0.5")
     Tdop_Point.innerHTML = 'Время доп.тока:         0.12 c';
     Relect_Point.innerHTML = 'Радиус электродов:      100 мм';
     Delect_Point.innerHTML = 'Диаметр электродов:     8 мм';
-    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    Picture_Point.innerHTML = '<img src="MT-4019I.jpg" />';
     URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
 }
@@ -261,7 +261,7 @@ if (Thick_Point == "D16ATAC0.5")
     Tdop_Point.innerHTML = 'Время доп.тока:         0.14 c';
     Relect_Point.innerHTML = 'Радиус электродов:      150 мм';
     Delect_Point.innerHTML = 'Диаметр электродов:     10 мм';
-    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    Picture_Point.innerHTML = '<img src="MT-4019I.jpg" />';
     URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
 }
@@ -276,7 +276,7 @@ if (Thick_Point == "D16ATAC0.5")
     Tdop_Point.innerHTML = 'Время доп.тока:         0.14 c';
     Relect_Point.innerHTML = 'Радиус электродов:      200 мм';
     Delect_Point.innerHTML = 'Диаметр электродов:     12 мм';
-    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    Picture_Point.innerHTML = '<img src="MT-4019I.jpg" />';
     URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
 }
@@ -287,7 +287,7 @@ if (Thick_Point == "D16ATAC0.5")
     Fweld_Point.innerHTML = 'Усилие сварки:          1.3 кН';
     Relect_Point.innerHTML = 'Радиус электродов:      25 мм';
     Delect_Point.innerHTML = 'Диаметр электродов:     4 мм';
-    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    Picture_Point.innerHTML = '<img src="MT-4019I.jpg" />';
     URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
     
@@ -300,7 +300,7 @@ if (Thick_Point == "D16ATAC0.5")
     Fweld_Point.innerHTML = 'Усилие сварки:          1.9 кН';
     Relect_Point.innerHTML = 'Радиус электродов:      50 мм';
     Delect_Point.innerHTML = 'Диаметр электродов:     5 мм';
-    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    Picture_Point.innerHTML = '<img src="MT-4019I.jpg" />';
     URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
  } 
@@ -311,7 +311,7 @@ if (Thick_Point == "D16ATAC0.5")
     Fweld_Point.innerHTML = 'Усилие сварки:          2.5 кН';
     Relect_Point.innerHTML = 'Радиус электродов:      75 мм';
     Delect_Point.innerHTML = 'Диаметр электродов:     5 мм';
-    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    Picture_Point.innerHTML = '<img src="MT-4019I.jpg" />';
     URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
  } 
@@ -322,7 +322,7 @@ if (Thick_Point == "D16ATAC0.5")
     Fweld_Point.innerHTML = 'Усилие сварки:          3.5 кН';
     Relect_Point.innerHTML = 'Радиус электродов:      100 мм';
     Delect_Point.innerHTML = 'Диаметр электродов:     7 мм';
-    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    Picture_Point.innerHTML = '<img src="MT-4019I.jpg" />';
     URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
  } 
@@ -333,7 +333,7 @@ if (Thick_Point == "D16ATAC0.5")
     Fweld_Point.innerHTML = 'Усилие сварки:          5 кН';
     Relect_Point.innerHTML = 'Радиус электродов:      100 мм';
     Delect_Point.innerHTML = 'Диаметр электродов:     8 мм';
-    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    Picture_Point.innerHTML = '<img src="MT-4019I.jpg" />';
     URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
  } 
@@ -344,7 +344,7 @@ if (Thick_Point == "D16ATAC0.5")
     Fweld_Point.innerHTML = 'Усилие сварки:          1.2 кН';
     Relect_Point.innerHTML = 'Радиус электродов:      25 мм';
     Delect_Point.innerHTML = 'Диаметр электродов:     4 мм';
-    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    Picture_Point.innerHTML = '<img src="MT-4019I.jpg" />';
     URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
  } 
@@ -355,7 +355,7 @@ if (Thick_Point == "D16ATAC0.5")
     Fweld_Point.innerHTML = 'Усилие сварки:          2 кН';
     Relect_Point.innerHTML = 'Радиус электродов:      50 мм';
     Delect_Point.innerHTML = 'Диаметр электродов:     5 мм';
-    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    Picture_Point.innerHTML = '<img src="MT-4019I.jpg" />';
     URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
  } 
@@ -366,7 +366,7 @@ if (Thick_Point == "D16ATAC0.5")
     Fweld_Point.innerHTML = 'Усилие сварки:          2.5 кН';
     Relect_Point.innerHTML = 'Радиус электродов:      75 мм';
     Delect_Point.innerHTML = 'Диаметр электродов:     5 мм';
-    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    Picture_Point.innerHTML = '<img src="MT-4019I.jpg" />';
     URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
  } 
@@ -377,7 +377,7 @@ if (Thick_Point == "D16ATAC0.5")
     Fweld_Point.innerHTML = 'Усилие сварки:          3.5 кН';
     Relect_Point.innerHTML = 'Радиус электродов:      100 мм';
     Delect_Point.innerHTML = 'Диаметр электродов:     7 мм';
-    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    Picture_Point.innerHTML = '<img src="MT-4019I.jpg" />';
     URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
  } 
@@ -390,7 +390,7 @@ if (Thick_Point == "D16ATAC0.5")
     Fkovk_Point.innerHTML = 'Усилие ковки:           10 кН';
     Relect_Point.innerHTML = 'Радиус электродов:      100 мм';
     Delect_Point.innerHTML = 'Диаметр электродов:     8 мм';
-    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    Picture_Point.innerHTML = '<img src="MT-4019I.jpg" />';
     URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
  } 
@@ -403,7 +403,7 @@ if (Thick_Point == "D16ATAC0.5")
     Fkovk_Point.innerHTML = 'Усилие ковки:           14 кН';
     Relect_Point.innerHTML = 'Радиус электродов:      150 мм';
     Delect_Point.innerHTML = 'Диаметр электродов:     9 мм';
-    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    Picture_Point.innerHTML = '<img src="MT-4019I.jpg" />';
     URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
  } 
@@ -416,7 +416,7 @@ if (Thick_Point == "D16ATAC0.5")
     Fkovk_Point.innerHTML = 'Усилие ковки:           20 кН';
     Relect_Point.innerHTML = 'Радиус электродов:      150 мм';
     Delect_Point.innerHTML = 'Диаметр электродов:     10 мм';
-    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    Picture_Point.innerHTML = '<img src="MT-4019I.jpg" />';
     URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
  } 
@@ -429,7 +429,7 @@ if (Thick_Point == "D16ATAC0.5")
     Fkovk_Point.innerHTML = 'Усилие ковки:           26 кН';
     Relect_Point.innerHTML = 'Радиус электродов:      200 мм';
     Delect_Point.innerHTML = 'Диаметр электродов:     12 мм';
-    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    Picture_Point.innerHTML = '<img src="MT-4019I.jpg" />';
     URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
  } 
@@ -440,7 +440,7 @@ if (Thick_Point == "D16ATAC0.5")
     Fweld_Point.innerHTML = 'Усилие сварки:          4-5 кН';
     Relect_Point.innerHTML = 'Радиус электродов:      25 мм';
     Delect_Point.innerHTML = 'Диаметр электродов:     3 мм';
-    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    Picture_Point.innerHTML = '<img src="MT-4019I.jpg" />';
     URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
  } 
@@ -451,7 +451,7 @@ if (Thick_Point == "D16ATAC0.5")
     Fweld_Point.innerHTML = 'Усилие сварки:          5-6 кН';
     Relect_Point.innerHTML = 'Радиус электродов:      25 мм';
     Delect_Point.innerHTML = 'Диаметр электродов:     4 мм';
-    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    Picture_Point.innerHTML = '<img src="MT-4019I.jpg" />';
     URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
  } 
@@ -462,7 +462,7 @@ if (Thick_Point == "D16ATAC0.5")
     Fweld_Point.innerHTML = 'Усилие сварки:          6.5-8 кН';
     Relect_Point.innerHTML = 'Радиус электродов:      50 мм';
     Delect_Point.innerHTML = 'Диаметр электродов:     5 мм';
-    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    Picture_Point.innerHTML = '<img src="MT-4019I.jpg" />';
     URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
  } 
@@ -473,7 +473,7 @@ if (Thick_Point == "D16ATAC0.5")
     Fweld_Point.innerHTML = 'Усилие сварки:          8-10 кН';
     Relect_Point.innerHTML = 'Радиус электродов:      75 мм';
     Delect_Point.innerHTML = 'Диаметр электродов:     5 мм';
-    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    Picture_Point.innerHTML = '<img src="MT-4019I.jpg" />';
     URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
  } 
@@ -484,7 +484,7 @@ if (Thick_Point == "D16ATAC0.5")
     Fweld_Point.innerHTML = 'Усилие сварки:          10-12 кН';
     Relect_Point.innerHTML = 'Радиус электродов:      75 мм';
     Delect_Point.innerHTML = 'Диаметр электродов:     6 мм';
-    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    Picture_Point.innerHTML = '<img src="MT-4019I.jpg" />';
     URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
  } 
@@ -495,7 +495,7 @@ if (Thick_Point == "D16ATAC0.5")
     Fweld_Point.innerHTML = 'Усилие сварки:          12.5-15 кН';
     Relect_Point.innerHTML = 'Радиус электродов:      100 мм';
     Delect_Point.innerHTML = 'Диаметр электродов:     7 мм';
-    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    Picture_Point.innerHTML = '<img src="MT-4019I.jpg" />';
     URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
  } 
@@ -506,7 +506,7 @@ if (Thick_Point == "D16ATAC0.5")
     Fweld_Point.innerHTML = 'Усилие сварки:          15.5-17.5 кН';
     Relect_Point.innerHTML = 'Радиус электродов:      100 мм';
     Delect_Point.innerHTML = 'Диаметр электродов:     8 мм';
-    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    Picture_Point.innerHTML = '<img src="MT-4019I.jpg" />';
     URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
  } 
@@ -517,7 +517,7 @@ if (Thick_Point == "D16ATAC0.5")
     Fweld_Point.innerHTML = 'Усилие сварки:          18.5-19.5 кН';
     Relect_Point.innerHTML = 'Радиус электродов:      150 мм';
     Delect_Point.innerHTML = 'Диаметр электродов:     9 мм';
-    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    Picture_Point.innerHTML = '<img src="MT-4019I.jpg" />';
     URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
  } 
@@ -528,7 +528,7 @@ if (Thick_Point == "D16ATAC0.5")
     Fweld_Point.innerHTML = 'Усилие сварки:          20-21.5 кН';
     Relect_Point.innerHTML = 'Радиус электродов:      150 мм';
     Delect_Point.innerHTML = 'Диаметр электродов:     10 мм';
-    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    Picture_Point.innerHTML = '<img src="MT-4019I.jpg" />';
     URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
  } 
@@ -540,7 +540,7 @@ if (Thick_Point == "D16ATAC0.5")
     Fweld_Point.innerHTML = 'Усилие сварки:          1.2-1.8 кН';
     Relect_Point.innerHTML = 'Радиус электродов:      25 мм';
     Delect_Point.innerHTML = 'Диаметр электродов:     4 мм';
-    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    Picture_Point.innerHTML = '<img src="MT-4019I.jpg" />';
     URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
  } 
@@ -551,7 +551,7 @@ if (Thick_Point == "D16ATAC0.5")
     Fweld_Point.innerHTML = 'Усилие сварки:          2-2.5 кН';
     Relect_Point.innerHTML = 'Радиус электродов:      50 мм';
     Delect_Point.innerHTML = 'Диаметр электродов:     5 мм';
-    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    Picture_Point.innerHTML = '<img src="MT-4019I.jpg" />';
     URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
  } 
@@ -562,7 +562,7 @@ if (Thick_Point == "D16ATAC0.5")
     Fweld_Point.innerHTML = 'Усилие сварки:          2.5-3 кН';
     Relect_Point.innerHTML = 'Радиус электродов:      75 мм';
     Delect_Point.innerHTML = 'Диаметр электродов:     5 мм';
-    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    Picture_Point.innerHTML = '<img src="MT-4019I.jpg" />';
     URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
  } 
@@ -573,7 +573,7 @@ if (Thick_Point == "D16ATAC0.5")
     Fweld_Point.innerHTML = 'Усилие сварки:          3-4 кН';
     Relect_Point.innerHTML = 'Радиус электродов:      75 мм';
     Delect_Point.innerHTML = 'Диаметр электродов:     6 мм';
-    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    Picture_Point.innerHTML = '<img src="MT-4019I.jpg" />';
     URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
  } 
@@ -584,7 +584,7 @@ if (Thick_Point == "D16ATAC0.5")
     Fweld_Point.innerHTML = 'Усилие сварки:          4-5 кН';
     Relect_Point.innerHTML = 'Радиус электродов:      100 мм';
     Delect_Point.innerHTML = 'Диаметр электродов:     7мм';
-    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    Picture_Point.innerHTML = '<img src="MT-4019I.jpg" />';
     URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
  } 
@@ -595,7 +595,7 @@ if (Thick_Point == "D16ATAC0.5")
     Fweld_Point.innerHTML = 'Усилие сварки:          6-7 кН';
     Relect_Point.innerHTML = 'Радиус электродов:      100 мм';
     Delect_Point.innerHTML = 'Диаметр электродов:     8 мм';
-    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    Picture_Point.innerHTML = '<img src="MT-4019I.jpg" />';
     URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
  } 
@@ -606,7 +606,7 @@ if (Thick_Point == "D16ATAC0.5")
     Fweld_Point.innerHTML = 'Усилие сварки:          9-10 кН';
     Relect_Point.innerHTML = 'Радиус электродов:      150 мм';
     Delect_Point.innerHTML = 'Диаметр электродов:     10 мм';
-    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    Picture_Point.innerHTML = '<img src="MT-4019I.jpg" />';
     URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
  } 
@@ -617,7 +617,7 @@ if (Thick_Point == "D16ATAC0.5")
     Fweld_Point.innerHTML = 'Усилие сварки:          11-12 кН';
     Relect_Point.innerHTML = 'Радиус электродов:      200 мм';
     Delect_Point.innerHTML = 'Диаметр электродов:     10 мм';
-    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    Picture_Point.innerHTML = '<img src="MT-4019I.jpg" />';
     URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
  } 
@@ -628,7 +628,7 @@ if (Thick_Point == "D16ATAC0.5")
     Fweld_Point.innerHTML = 'Усилие сварки:          13-15 кН';
     Relect_Point.innerHTML = 'Радиус электродов:      200 мм';
     Delect_Point.innerHTML = 'Диаметр электродов:     12 мм';
-    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    Picture_Point.innerHTML = '<img src="MT-4019I.jpg" />';
     URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
  } 
@@ -642,7 +642,7 @@ if (Thick_Point == "D16ATAC0.5")
     Tpauz_Point.innerHTML = 'Время паузы:            0.3-0.5 с';
     Idop_Point.innerHTML = 'Сила доп.тока:          4-5 kA';
     Tdop_Point.innerHTML = 'Время доп.тока:         0.5-0.6 c';
-    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    Picture_Point.innerHTML = '<img src="MT-4019I.jpg" />';
     URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>'    
  } 
                             if (Thick_Point == "LOWLEG0.8")
@@ -655,7 +655,7 @@ if (Thick_Point == "D16ATAC0.5")
     Tpauz_Point.innerHTML = 'Время паузы:            0.4-0.6 с';
     Idop_Point.innerHTML = 'Сила доп.тока:          4.5-5.2 kA';
     Tdop_Point.innerHTML = 'Время доп.тока:         0.6-0.74 c';
-    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    Picture_Point.innerHTML = '<img src="MT-4019I.jpg" />';
     URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';   
  } 
                              if (Thick_Point == "LOWLEG1")
@@ -668,7 +668,7 @@ if (Thick_Point == "D16ATAC0.5")
     Tpauz_Point.innerHTML = 'Время паузы:            0.6-0.7 с';
     Idop_Point.innerHTML = 'Сила доп.тока:          4.8-5.5 kA';
     Tdop_Point.innerHTML = 'Время доп.тока:         0.68-0.78 c';
-    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    Picture_Point.innerHTML = '<img src="MT-4019I.jpg" />';
     URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';    
  } 
                               if (Thick_Point == "LOWLEG1.2")
@@ -681,7 +681,7 @@ if (Thick_Point == "D16ATAC0.5")
     Tpauz_Point.innerHTML = 'Время паузы:            0.7-0.9 с';
     Idop_Point.innerHTML = 'Сила доп.тока:          5-6 kA';
     Tdop_Point.innerHTML = 'Время доп.тока:         0.72-0.86 c';
-    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    Picture_Point.innerHTML = '<img src="MT-4019I.jpg" />';
     URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';  
  } 
                                if (Thick_Point == "LOWLEG1.5")
@@ -694,7 +694,7 @@ if (Thick_Point == "D16ATAC0.5")
     Tpauz_Point.innerHTML = 'Время паузы:            0.8-1.1 с';
     Idop_Point.innerHTML = 'Сила доп.тока:          6.2-7.4 kA';
     Tdop_Point.innerHTML = 'Время доп.тока:         0.86-0.96 c';
-    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    Picture_Point.innerHTML = '<img src="MT-4019I.jpg" />';
     URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
  } 
                                 if (Thick_Point == "LOWLEG2")
@@ -707,7 +707,7 @@ if (Thick_Point == "D16ATAC0.5")
     Tpauz_Point.innerHTML = 'Время паузы:            1-1.4 с';
     Idop_Point.innerHTML = 'Сила доп.тока:          7-8 kA';
     Tdop_Point.innerHTML = 'Время доп.тока:         1.1-1.3 c';
-    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    Picture_Point.innerHTML = '<img src="MT-4019I.jpg" />';
     URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
  } 
                                  if (Thick_Point == "LOWLEG2.5")
@@ -720,7 +720,7 @@ if (Thick_Point == "D16ATAC0.5")
     Tpauz_Point.innerHTML = 'Время паузы:            1.1-1.5 с';
     Idop_Point.innerHTML = 'Сила доп.тока:          8-9 kA';
     Tdop_Point.innerHTML = 'Время доп.тока:         1.3-1.9 c';
-    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    Picture_Point.innerHTML = '<img src="MT-4019I.jpg" />';
     URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
  } 
                                   if (Thick_Point == "LOWLEG3")
@@ -733,7 +733,7 @@ if (Thick_Point == "D16ATAC0.5")
     Tpauz_Point.innerHTML = 'Время паузы:            1.3-1.6 с';
     Idop_Point.innerHTML = 'Сила доп.тока:          8-10 kA';
     Tdop_Point.innerHTML = 'Время доп.тока:         1.8-2.2 c';
-    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    Picture_Point.innerHTML = '<img src="MT-4019I.jpg" />';
     URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
  } 
                            if (Thick_Point == "NOCOR0.3")
@@ -743,8 +743,8 @@ if (Thick_Point == "D16ATAC0.5")
     Fweld_Point.innerHTML = 'Усилие сварки:          1.5-2 кН';
     Relect_Point.innerHTML = 'Радиус электродов:      25 мм';
     Delect_Point.innerHTML = 'Диаметр электродов:     3 мм';
-    Picture_Point.innerHTML = '<img src="4019.jpg" />';
-    URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
+    Picture_Point.innerHTML = '<img src="MTI-0601.png" />';
+    URL_Point.innerHTML = '<a href="https://astpskov.ru/catalog/mashiny-kontaktnoj-svarki/tochechnaya-varka/postoyannyj-tok/111/">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
  } 
  
@@ -755,7 +755,7 @@ if (Thick_Point == "D16ATAC0.5")
     Fweld_Point.innerHTML = 'Усилие сварки:          2.5-3 кН';
     Relect_Point.innerHTML = 'Радиус электродов:      25 мм';
     Delect_Point.innerHTML = 'Диаметр электродов:     4 мм';
-    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    Picture_Point.innerHTML = '<img src="MT-4019I.jpg" />';
     URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
  } 
@@ -766,7 +766,7 @@ if (Thick_Point == "D16ATAC0.5")
     Fweld_Point.innerHTML = 'Усилие сварки:          3-4 кН';
     Relect_Point.innerHTML = 'Радиус электродов:      50 мм';
     Delect_Point.innerHTML = 'Диаметр электродов:     5 мм';
-    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    Picture_Point.innerHTML = '<img src="MT-4019I.jpg" />';
     URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
  } 
@@ -777,7 +777,7 @@ if (Thick_Point == "D16ATAC0.5")
     Fweld_Point.innerHTML = 'Усилие сварки:          3.5-4.5 кН';
     Relect_Point.innerHTML = 'Радиус электродов:      75 мм';
     Delect_Point.innerHTML = 'Диаметр электродов:     5 мм';
-    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    Picture_Point.innerHTML = '<img src="MT-4019I.jpg" />';
     URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
  } 
@@ -788,7 +788,7 @@ if (Thick_Point == "D16ATAC0.5")
     Fweld_Point.innerHTML = 'Усилие сварки:          4.5-5.5 кН';
     Relect_Point.innerHTML = 'Радиус электродов:      75 мм';
     Delect_Point.innerHTML = 'Диаметр электродов:     6 мм';
-    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    Picture_Point.innerHTML = '<img src="MT-4019I.jpg" />';
     URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
  } 
@@ -799,7 +799,7 @@ if (Thick_Point == "D16ATAC0.5")
     Fweld_Point.innerHTML = 'Усилие сварки:          5-6.5 кН';
     Relect_Point.innerHTML = 'Радиус электродов:      100 мм';
     Delect_Point.innerHTML = 'Диаметр электродов:     7 мм';
-    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    Picture_Point.innerHTML = '<img src="MT-4019I.jpg" />';
     URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
  } 
@@ -810,7 +810,7 @@ if (Thick_Point == "D16ATAC0.5")
     Fweld_Point.innerHTML = 'Усилие сварки:          8-9 кН';
     Relect_Point.innerHTML = 'Радиус электродов:      100 мм';
     Delect_Point.innerHTML = 'Диаметр электродов:     8 мм';
-    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    Picture_Point.innerHTML = '<img src="MT-4019I.jpg" />';
     URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
  } 
@@ -821,7 +821,7 @@ if (Thick_Point == "D16ATAC0.5")
     Fweld_Point.innerHTML = 'Усилие сварки:          10-11 кН';
     Relect_Point.innerHTML = 'Радиус электродов:      150 мм';
     Delect_Point.innerHTML = 'Диаметр электродов:     9 мм';
-    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    Picture_Point.innerHTML = '<img src="MT-4019I.jpg" />';
     URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
  } 
@@ -832,7 +832,7 @@ if (Thick_Point == "D16ATAC0.5")
     Fweld_Point.innerHTML = 'Усилие сварки:          12-14 кН';
     Relect_Point.innerHTML = 'Радиус электродов:      150 мм';
     Delect_Point.innerHTML = 'Диаметр электродов:     10 мм';
-    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    Picture_Point.innerHTML = '<img src="MT-4019I.jpg" />';
     URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
  } 
@@ -844,7 +844,7 @@ if (Thick_Point == "D16ATAC0.5")
     Fweld_Point.innerHTML = 'Усилие сварки:          0.75-1 кН';
     Relect_Point.innerHTML = 'Радиус электродов:      25 мм';
     Delect_Point.innerHTML = 'Диаметр электродов:     3 мм';
-    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    Picture_Point.innerHTML = '<img src="MT-4019I.jpg" />';
     URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
  } 
@@ -855,7 +855,7 @@ if (Thick_Point == "D16ATAC0.5")
     Fweld_Point.innerHTML = 'Усилие сварки:          1-1.5 кН';
     Relect_Point.innerHTML = 'Радиус электродов:      25 мм';
     Delect_Point.innerHTML = 'Диаметр электродов:     4 мм';
-    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    Picture_Point.innerHTML = '<img src="MT-4019I.jpg" />';
     URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
  } 
@@ -866,7 +866,7 @@ if (Thick_Point == "D16ATAC0.5")
     Fweld_Point.innerHTML = 'Усилие сварки:          1.5-2 кН';
     Relect_Point.innerHTML = 'Радиус электродов:      50 мм';
     Delect_Point.innerHTML = 'Диаметр электродов:     5 мм';
-    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    Picture_Point.innerHTML = '<img src="MT-4019I.jpg" />';
     URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
  } 
@@ -877,7 +877,7 @@ if (Thick_Point == "D16ATAC0.5")
     Fweld_Point.innerHTML = 'Усилие сварки:          2-2.5 кН';
     Relect_Point.innerHTML = 'Радиус электродов:      75 мм';
     Delect_Point.innerHTML = 'Диаметр электродов:     5 мм';
-    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    Picture_Point.innerHTML = '<img src="MT-4019I.jpg" />';
     URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
  }
@@ -888,7 +888,7 @@ if (Thick_Point == "D16ATAC0.5")
     Fweld_Point.innerHTML = 'Усилие сварки:          2.5-3 кН';
     Relect_Point.innerHTML = 'Радиус электродов:      75 мм';
     Delect_Point.innerHTML = 'Диаметр электродов:     6 мм';
-    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    Picture_Point.innerHTML = '<img src="MT-4019I.jpg" />';
     URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
  }
@@ -899,7 +899,7 @@ if (Thick_Point == "D16ATAC0.5")
     Fweld_Point.innerHTML = 'Усилие сварки:          3-3.5 кН';
     Relect_Point.innerHTML = 'Радиус электродов:      100 мм';
     Delect_Point.innerHTML = 'Диаметр электродов:     7 мм';
-    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    Picture_Point.innerHTML = '<img src="MT-4019I.jpg" />';
     URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
  }
@@ -910,7 +910,7 @@ if (Thick_Point == "D16ATAC0.5")
     Fweld_Point.innerHTML = 'Усилие сварки:          4-5.5 кН';
     Relect_Point.innerHTML = 'Радиус электродов:      100 мм';
     Delect_Point.innerHTML = 'Диаметр электродов:     8 мм';
-    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    Picture_Point.innerHTML = '<img src="MT-4019I.jpg" />';
     URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
  }
@@ -921,7 +921,7 @@ if (Thick_Point == "D16ATAC0.5")
     Fweld_Point.innerHTML = 'Усилие сварки:          6-7.5 кН';
     Relect_Point.innerHTML = 'Радиус электродов:      150 мм';
     Delect_Point.innerHTML = 'Диаметр электродов:     9 мм';
-    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    Picture_Point.innerHTML = '<img src="MT-4019I.jpg" />';
     URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
  }
@@ -932,7 +932,7 @@ if (Thick_Point == "D16ATAC0.5")
     Fweld_Point.innerHTML = 'Усилие сварки:          8-10 кН';
     Relect_Point.innerHTML = 'Радиус электродов:      150 мм';
     Delect_Point.innerHTML = 'Диаметр электродов:     10 мм';
-    Picture_Point.innerHTML = '<img src="4019.jpg" />';
+    Picture_Point.innerHTML = '<img src="MT-4019I.jpg" />';
     URL_Point.innerHTML = '<a href="ССЫЛКА">Посмотреть характеристики машины на сайте КБ АСТ</a>';
     
  }
